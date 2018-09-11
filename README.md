@@ -9,3 +9,6 @@ Dependencies:
 * `python3`
 * `tensorflow`
 * `keras`
+
+<br>
+Dataset can be downloaded [here](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/EnglishFnt.tgz)
