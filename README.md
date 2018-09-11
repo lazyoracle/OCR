@@ -11,4 +11,4 @@ Dependencies:
 * `keras`
 
 <br>
-Dataset can be downloaded [here](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/EnglishFnt.tgz)
+Dataset can be downloaded from http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/EnglishFnt.tgz
